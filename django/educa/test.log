@@ -1,0 +1,6 @@
+[INFO] <QuerySet []> 
+ [INFO] <QuerySet [<User: user>, <User: studenti3>, <User: instruqtori1>]> 
+ [INFO] <QuerySet [<User: user>, <User: studenti3>, <User: instruqtori1>]> 
+ [INFO] <QuerySet [<User: user>, <User: instruqtori1>]> 
+ [INFO] <QuerySet [<User: user>, <User: instruqtori1>]> 
+ 
